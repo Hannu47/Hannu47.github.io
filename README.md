@@ -15,3 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I made this account for _fun_.
+
+```mermaid
+graph TD
+    A[Wake Up] --> B{Feeling Lazy?}
+    B -- Yes --> C[Sleep Again]
+    B -- No --> D[Brush Teeth]
+    D --> E[Coffee Time]
+    E --> F[Take Over the World]
+```

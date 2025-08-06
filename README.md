@@ -24,3 +24,9 @@ graph TD
     D --> E[Coffee Time]
     E --> F[Take Over the World]
 ```
+
+
+<details>
+    <summary>Click</summary>
+    <p>Extra Text</p>
+</details>

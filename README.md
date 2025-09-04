@@ -32,4 +32,4 @@ graph TD
 </details>
 
 
-![TEXT](https://img.shield.io/badge/this_is-blue-blue)
+![Static Badge](https://img.shields.io/badge/this_is-blue-blue)
